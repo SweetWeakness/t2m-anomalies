@@ -1,0 +1,6 @@
+dask[complete]
+numpy
+cdsapi
+netCDF4
+matplotlib
+xarray
